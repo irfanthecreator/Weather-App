@@ -1,6 +1,3 @@
-# Weather-App
-Fetches weather information based on city name using an API like OpenWeatherMap.
-
 # Weather App
 
 This Python-based weather application fetches weather information based on city names using the OpenWeatherMap API.
